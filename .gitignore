@@ -1,5 +1,7 @@
-# Only publish the installer
+# Only publish the installer and its update files
 *
 !.gitignore
 !README.md
 !Jours-Setup.exe
+!Jours-Setup.exe.blockmap
+!latest.yml
