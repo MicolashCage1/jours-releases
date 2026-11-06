@@ -1,0 +1,5 @@
+# Only publish the installer
+*
+!.gitignore
+!README.md
+!Jours-Setup.exe
