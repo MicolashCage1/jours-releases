@@ -1,8 +1,8 @@
-version: 0.2.1
+version: 0.2.2
 files:
   - url: Jours-Setup.exe
-    sha512: ztPrEKkHA4nufZzxpkLPksmp/YyiV0eWL4RCm7xIxHRWDoFV7sND3kwnXJOR6ZH/7+Hm2SsUw9UxzCGYezLc+g==
-    size: 91655584
+    sha512: RPE8909JxxFnMM3zGm54cGIdyfU1JNJRTn5DTc9ADVDbVsoQJjz1fxaJ7VbU5J4NkVczCiWWqHVyjv51nnNfxg==
+    size: 91655617
 path: Jours-Setup.exe
-sha512: ztPrEKkHA4nufZzxpkLPksmp/YyiV0eWL4RCm7xIxHRWDoFV7sND3kwnXJOR6ZH/7+Hm2SsUw9UxzCGYezLc+g==
-releaseDate: '2026-11-06T22:10:59.145Z'
+sha512: RPE8909JxxFnMM3zGm54cGIdyfU1JNJRTn5DTc9ADVDbVsoQJjz1fxaJ7VbU5J4NkVczCiWWqHVyjv51nnNfxg==
+releaseDate: '2026-11-06T22:31:39.668Z'
